@@ -46,3 +46,9 @@ Udowodnij, że klucz aaa w szyfrze afinicznym musi być względnie pierwszy z ro
 
 # Liczba możliwych kluczy w szyfrze afinicznym [05.py](05.py)
 Udowodnij, że liczba możliwych kluczy w szyfrze afinicznym, gdzie alfabet ma rozmiar n, wynosi n⋅ϕ(n), gdzie ϕ(n) to funkcja Eulera.
+
+# Hill cipher [06.py](06.py)
+2x2 | 3x3 | Encoding/decoding.
+
+# Szyfr Hilla PL [06PL.py](06PL.py)
+2x2 | 3x3 | Encoding/decoding PL prompt.
